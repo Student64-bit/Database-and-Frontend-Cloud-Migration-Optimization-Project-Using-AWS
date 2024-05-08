@@ -1,4 +1,4 @@
-# AWS Cloud Migration Project #1: Migrating a Database
+# Database and Frontend Cloud Migration & Optimization Project Using AWS
 
 ## Overview
 This project involves creating a simple React frontend application that includes a submission form, which interacts with a MySQL database initially hosted locally. The objective is to migrate this application to the cloud using various AWS services, enhancing the infrastructure with managed and serverless technologies. The backend will be migrated to an EC2 instance, while the frontend will be hosted in an S3 bucket and served via CloudFront.
